@@ -1,5 +1,5 @@
-ROOT_PATH = 'input/Dataset 1 (Simplex)/Dataset 1 (Simplex)'
-TEST_PATH = 'input/Dataset 1 (Simplex)/Dataset 1 (Simplex)/Test data'
+ROOT_PATH = 'input/Dataset'
+TEST_PATH = 'input/Dataset/test'
 PREDICTION_THRES = 0.8
 EPOCHS = 5
 MIN_SIZE = 800
