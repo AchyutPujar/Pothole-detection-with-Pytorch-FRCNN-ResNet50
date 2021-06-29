@@ -1,1 +1,1 @@
-## Checkpoints will be saved, after running the trian.py in "*.pth"
+## Checkpoints will be saved, after running the train.py in "*.pth"
